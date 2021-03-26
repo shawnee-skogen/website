@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Shawnee Skogen</title>
+    <link>https://shawnee-skogen.com/pages/</link>
+    <description>Recent content in Pages on Shawnee Skogen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Mar 2021 00:23:35 -0500</lastBuildDate><atom:link href="https://shawnee-skogen.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://shawnee-skogen.com/about/</link>
+      <pubDate>Fri, 26 Mar 2021 00:23:35 -0500</pubDate>
+      
+      <guid>https://shawnee-skogen.com/about/</guid>
+      <description>Sons of Norway Lodge 5-689, Shawnee Skogen:
+ Facebook (Experimental) Mail Lists  Sons of Norway (International):
+ Website Twitter  </description>
+    </item>
+    
+  </channel>
+</rss>
