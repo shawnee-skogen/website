@@ -100,10 +100,12 @@ params:
 menu:
   main:
     - identifier: home
-      name: Home
       url: /
       weight: -100
       pre: home
+    - identifier: mail-lists
+      name: Mail Lists
+      url: https://lists.shawnee-skogen.com/
 
 related:
   includeNewer: true
