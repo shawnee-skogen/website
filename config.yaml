@@ -12,12 +12,12 @@ publishDir: docs
 DefaultContentLanguage: en
 
 permalinks:
-  posts: /p/:slug/
-  pages: /:slug/
+  post: /p/:slug/
+  page: /:slug/
 
 params:
   mainSections:
-    - posts
+    - post
   featuredImageField: image
   rssFullContent: true
   favicon:
