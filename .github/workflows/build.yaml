@@ -24,6 +24,7 @@ jobs:
           git config user.email "majordomo@shawnee-skogen.com"
           git config user.name "GitHub Actions"
           git add ./docs
+          ( cd themes/hugo-theme-stack && git reset --hard )
           if test -z "$(git status --porcelain)"
           then
             echo "No changes to commit."
