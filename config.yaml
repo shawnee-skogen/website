@@ -101,12 +101,17 @@ menu:
   main:
     - identifier: home
       name: Home
-      url: /
       weight: -100
+      url: /
       pre: home
     - identifier: mail-lists
       name: Mailing Lists
       url: https://lists.shawnee-skogen.com/
+      pre: messages
+    - identifier: rss
+      name: RSS Feed
+      url: /index.xml
+      pre: rss
 
 related:
   includeNewer: true
