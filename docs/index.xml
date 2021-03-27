@@ -5,30 +5,6 @@
         <link>https://shawnee-skogen.com/</link>
         <description>Recent content on Shawnee Skogen</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Fri, 26 Mar 2021 00:23:35 -0500</lastBuildDate><atom:link href="https://shawnee-skogen.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>More coming soon...</title>
-        <link>https://shawnee-skogen.com/p/hello/</link>
-        <pubDate>Thu, 25 Mar 2021 23:31:54 -0500</pubDate>
-        
-        <guid>https://shawnee-skogen.com/p/hello/</guid>
-        <description>&lt;p&gt;Here are some links to other resources&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Sons of Norway Lodge 5-689, Shawnee Skogen:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/southillinois/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lists.shawnee-skogen.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;(Experimental) Mail Lists&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Sons of Norway (International):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.sofn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://twitter.com/sonsofnorway&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        
+        <language>en-us</language><atom:link href="https://shawnee-skogen.com/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
