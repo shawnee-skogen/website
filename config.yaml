@@ -105,7 +105,7 @@ menu:
       weight: -100
       pre: home
     - identifier: mail-lists
-      name: Mail Lists
+      name: Mailing Lists
       url: https://lists.shawnee-skogen.com/
 
 related:
