@@ -14,8 +14,8 @@ jobs:
           submodules: true
       - name: Install Hugo
         run: |
-          curl -LO "https://github.com/gohugoio/hugo/releases/download/v0.82.0/hugo_0.82.0_Linux-64bit.deb"
-          sudo apt install ./hugo_0.82.0_Linux-64bit.deb
+          curl --location --remote-name --silent "https://github.com/gohugoio/hugo/releases/download/v0.82.0/hugo_0.82.0_Linux-64bit.deb"
+          sudo apt install --quiet ./hugo_0.82.0_Linux-64bit.deb
           rm -f ./hugo_0.82.0_Linux-64bit.deb
       - name: Build Site
         run: hugo --cleanDestinationDir
