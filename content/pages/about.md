@@ -5,6 +5,7 @@ draft: true
 menu:
   main:
     weight: -90
+    pre: user
 ---
 Sons of Norway Lodge 5-689, Shawnee Skogen:
 
