@@ -1,7 +1,7 @@
 ---
-title: "Lefse 2020"
-date: 2020-11-15T21:30:00-06:00
-slug: lefse-2020
+title: "Annual Lefse Making Meeting November 15, 2020"
+date: 2020-10-18T21:30:00-06:00
+slug: 2020-11-15-lefse
 image: 4ADF4300-3BC4-4251-A289-6B363B1C1638.png
 categories:
   - Cooking
@@ -14,7 +14,9 @@ It's almost like a flour tortilla but softer and tastier and Norwegian!
 
 Consider [joining](https://members.sofn.com/newMembers/signup/join?district=5&lodge=689&lodgeName=Shawnee+Skogen+++++++++++) our lodge so you can learn to make lefse and all sorts of other Scandinavian art, food, etc.
 
-Here's the recipe we used,
+Our annual lefse making meeting will be November 15, 2020 at 2:00 PM.
+
+Here's the recipe we will use,
 
 - 9 cup hot water
 - 3 sticks butter (2 butter, 1 margarine)
