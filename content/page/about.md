@@ -39,7 +39,7 @@ We are also lucky to have a fluent speaker amongst our membership.
 
 ## Lodge Meetings
 
-Lodge meetings are currently held on the third Sunday of each month at 2:00 PM.
+Lodge meetings are typically held on the third Sunday of each month at 2:00 PM.
 Historically they were held at the [Peachbarn Winery & Café](https://www.peachbarn.com) in Alto Pass, IL.
 However, due to COVID-19 restrictions we have been holding lodge meetings on Zoom.
 We are planning on having an in-person meeting for Syttende Mai at [Giant City State Park](https://www2.illinois.gov/dnr/Parks/Pages/GiantCity.aspx).
