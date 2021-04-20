@@ -5,14 +5,11 @@ menu:
   main:
     pre: clock
 ---
-## April 18, 2021
-
-Zoom meeting.
-Program to be determined.
+Meetings begin at 2PM unless otherwise stated.
 
 ## May 16, 2021
 
-Syttendy Mai and make-up Julebord at Giant City State Park.
+Syttende mai and make-up Julebord at Giant City State Park, Shelter 3 right by [Giant City Nature Trail trailhead](https://goo.gl/maps/NaZRQjqRGXTEknjB9).
 
 ## July 18, 2021
 

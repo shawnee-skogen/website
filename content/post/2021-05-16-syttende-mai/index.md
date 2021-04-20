@@ -12,3 +12,5 @@ Around the world Norwegian communities celebrate with traditional foods and in s
 This year we will not only be celebrating syttende mai but also our postponed julebord!
 Normally julebord would happen in early December but because of COVID-19 we postponed it.
 With vaccinations being widely available and with our May 16th meeting being planned outdoors at Giant City State Park we think it will be safe to come together to celebrate syttende mai and our postponed julebord!
+
+We will be at Shelter 3 right beside the [Giant City Nature Trail trailhead](https://goo.gl/maps/NaZRQjqRGXTEknjB9) at 2PM.
