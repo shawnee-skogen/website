@@ -7,17 +7,22 @@ menu:
 ---
 Meetings begin at 2PM unless otherwise stated.
 
-## May 16, 2021
+## June 27, 2021
 
-Syttende mai and make-up Julebord at Giant City State Park, Shelter 3 right by [Giant City Nature Trail trailhead](https://goo.gl/maps/NaZRQjqRGXTEknjB9).
+The June meeting will be held at Cahokia Mounds ([Wikipedia][juni0], [Official][juni1] (bad SSL certificate)) on June 27th.  We will meet up for lunch around noon and then head over to mounds at 2 PM.
+
+[juni0]: https://en.wikipedia.org/wiki/Cahokia
+[juni1]: https://cahokiamounds.org
 
 ## July 18, 2021
 
 Location and program to be determined.
 
-## August 15, 2021
+## August 22, 2021
 
-Location and program to be determined.
+The August meeting will be held August 22nd in Centralia, IL where we will get to enjoy the sights of the [Centralia Balloon Fest][august0].
+
+[august0]: https://centraliachamber.com/balloon-fest
 
 ## September 19, 2021
 
