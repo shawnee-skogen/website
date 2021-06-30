@@ -1,5 +1,5 @@
 ---
-title: "2021 Syttende Mai Meeting"
+title: "2021 May Meeting Recap: Syttende Mai"
 date: 2021-05-16T17:00:00-06:00
 slug: 2021-05-16-syttende-mai
 image: group_crop.jpg
