@@ -7,7 +7,7 @@ image: mound.jpg
 
 Plans for the June and August meetings have been laid!
 
-The June meeting will be held at Cahokia Mounds ([Wikipedia][2], [Official][1] (bad SSL certificate)) on June 27th.  We will meet up for lunch around noon and then head over to mounds at 2 PM.
+The June meeting will be held at Cahokia Mounds ([Wikipedia][2], [Official][1]) on June 27th.  We will meet up for lunch around noon and then head over to mounds at 2 PM.
 
 The August meeting will be held August 22nd in Centralia, IL where we will get to enjoy the sights of the [Centralia Balloon Fest][0].
 
