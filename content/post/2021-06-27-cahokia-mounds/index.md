@@ -14,7 +14,7 @@ She introduced us to the Mississippian culture of this ancient city that existed
 We learned about the layout of the city, its defenses, the purposes of the mounds, etc.
 Rolling in on the heels of our guided tour were some thunderstorms which prevented us from hiking up Monks Mound; until next time!
 
-![Monks Mount](monks_mound.jpg)
+![Monks Mound](monks_mound.jpg)
 
 We finished off the guided tour and headed into the extremely welcoming, cooly air conditioned museum full of artifacts and exhibits.
 Cahokia Mounds is a very interesting archaeological site that is well worth a stop if you are interested in the regions history.
