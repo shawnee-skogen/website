@@ -23,8 +23,6 @@ Additional photos can be viewed on the [shared album](https://www.icloud.com/sha
 
 Our next meeting is planned for August 22nd and will be in Centralia, IL where we will get to enjoy the sights of the [Centralia Balloon Fest][0].
 
-_Photo by [Skubasteve834 - EN.Wikipedia, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=3019271)._
-
 [0]: https://centraliachamber.com/balloon-fest
 [1]: https://cahokiamounds.org
 [2]: https://en.wikipedia.org/wiki/Cahokia
