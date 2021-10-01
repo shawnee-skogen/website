@@ -16,7 +16,7 @@ This photo only captures one team but the game was played 6 vs. 6,
 
 If you would like to learn how to play check out this video,
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/liMZ-dFMJSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/liMZ-dFMJSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Finally, Ron donned the troll costume so we could take some pictures for Viking magazine.
 
