@@ -15,7 +15,7 @@ We have the shelter all day, from 8:00 AM until dusk, so feel free to come early
 
 ## November 21, 2021
 
-Lefse making at the Lodge President's home.
+Lefse making at the Lodge President's home, starting at noon.
 
 ## December 5, 2021
 
