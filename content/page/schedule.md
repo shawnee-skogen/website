@@ -17,6 +17,6 @@ We have the shelter all day, from 8:00 AM until dusk, so feel free to come early
 
 Lefse making at the Lodge President's home, starting at noon.
 
-## December 5, 2021
+## December 12, 2021
 
 Julebord at the Lodge President's home.
