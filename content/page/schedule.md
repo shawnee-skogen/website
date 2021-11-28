@@ -7,10 +7,6 @@ menu:
 ---
 Meetings begin at 2PM unless otherwise stated.
 
-## November 21, 2021
-
-Lefse making at the Lodge President's home, starting at noon.
-
 ## December 12, 2021
 
-Julebord at the Lodge President's home.
+Julebord at the Lodge President's home, starting at 1:00 PM.
