@@ -1,6 +1,6 @@
 ---
 title: "God Jul Til Alle"
-date: 2021-12-12T13:00:00-05:00
+date: 2021-12-19T13:00:00-05:00
 slug: 2021-12-12-julebord
 image: index.jpg
 ---
