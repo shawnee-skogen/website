@@ -2,7 +2,7 @@
 title: "2021 January Meeting Recap: Cultural Skills: Music"
 date: 2022-01-16T14:00:00-05:00
 slug: 2022-01-16-music
-image: index.webp
+image: index.jpg
 ---
 
 Part of Sons of Norway is a pin system for various activities primarily falling under two programs: [Cultural Skills][] and [Sports Medals][].
