@@ -1,12 +1,62 @@
 ---
 title: "Schedule"
-date: 2021-03-27T17:30:00-05:00
+date: 2022-03-06T17:30:00-05:00
 menu:
   main:
     pre: clock
 ---
 Meetings begin at 2PM unless otherwise stated.
 
-## December 12, 2021
+## January 17, 2022
 
-Julebord at the Lodge President's home, starting at 1:00 PM.
+Location: Zoom  
+Program: We will work on a cultural skills pin for music.
+
+## February 20, 2022
+
+Location: Giant City State Park  
+Program: Girl Scouts will present about how scouting works in Norway.
+
+## March 20, 2022
+
+Program and location yet to be determined.
+
+## April 17, 2022
+
+Program and location yet to be determined.
+
+## May 15, 2022
+
+Location: To be determined.  
+Program: Syttende Mai celebration.
+
+## June 19, 2022
+
+No meeting.
+
+## July 17, 2022
+
+Maybe a summer field trip?
+
+## August 20, 2022
+
+Location: Mike and Jeannell's  
+Program: Centralia Balloon Fest
+
+## September 18, 2022
+
+Program and location yet to be determined.
+
+## October 16, 2022
+
+Program and location yet to be determined.
+
+## November 20, 2022
+
+Location: Wendy and Bill's  
+Program: Lefse making
+
+## December 11, 2022
+
+Location: Wendy and Bill's  
+Program: Julebord
