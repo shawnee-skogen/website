@@ -5,7 +5,8 @@ menu:
   main:
     pre: clock
 ---
-Meetings begin at 2PM unless otherwise stated.
+
+The schedule can be subscribed to using `https://bit.ly/shawnee-skogen-calendar`.  Directions on how to "Subscribe to a calendar" are provided by Apple for [macOS](https://support.apple.com/guide/calendar/subscribe-to-calendars-icl1022/mac) and for [iOS](https://support.apple.com/guide/iphone/use-multiple-calendars-iph3d1110d4/ios).
 
 ## January 17, 2022
 

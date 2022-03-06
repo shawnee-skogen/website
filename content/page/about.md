@@ -12,7 +12,7 @@ Sons of Norway is a [fraternal benefit society](https://www.youtube.com/watch?v=
 Over time, the mission of Sons of Norway has expanded to include the preservation of Norwegian heritage and culture in our society.
 Sons of Norway no longer requires Norwegian ancestry and our lodge is open to all who wish to explore Scandinavian heritage and culture.
 
-If you wish to join our lodge you can do so on the [international Sons of Norway site](https://members.sofn.com/newMembers/signup/join?district=5&lodge=689&lodgeName=Shawnee+Skogen+++++++++++) or email the [Lodge Vice President](mailto:vp@shawnee-skogen.com) to discuss membership options.
+If you wish to join our lodge you can do so on the [international Sons of Norway site](https://members.sofn.com/newMembers/signup/join?district=5&lodge=689&lodgeName=Shawnee+Skogen+++++++++++) or email the [Lodge Vice President](#officers) to discuss membership options.
 
 Shawnee Skogen has a presence around the web:
 
@@ -42,7 +42,20 @@ We are also lucky to have a fluent speaker amongst our membership.
 Lodge meetings are typically held on the third Sunday of each month at 2:00 PM.
 Historically they were held at the [Peachbarn Winery & Café](https://www.peachbarn.com) in Alto Pass, IL.
 However, due to COVID-19 restrictions we have been holding lodge meetings on Zoom.
-We are planning on having an in-person meeting for Syttende Mai at [Giant City State Park](https://www2.illinois.gov/dnr/Parks/Pages/GiantCity.aspx).
+Lately we have been on having in-person meetings at [Giant City State Park](https://www2.illinois.gov/dnr/Parks/Pages/GiantCity.aspx).
+
+## Officers
+
+President: [Wendy Winkelman](mailto:wendyathadeland@yahoo.com)  
+Vice President: Open  
+Secretary: [Nancy Schick](mailto:nancyrschick@gmail.com)  
+Treasurer: [Kelly Bliss](mailto:kellybliss13@hotmail.com)  
+Program Director: [Heather Kjellesvik](mailto:hkjellesvik@gmail.com)  
+Sports & Recreation Director: [Ron Naversen](mailto:rnaversen@gmail.com)  
+Publicity Director: [Nathan Nutter](mailto:n@nutter.xyz)  
+Editor: [Wendy Winkelman](mailto:wendyathadeland@yahoo.com)  
+Counselor: [Bill Bultinck](mailto:billb763@msn.com)  
+Sunshine: [Bill Bultinck](mailto:billb763@msn.com)  
 
 ## Other Lodges
 
