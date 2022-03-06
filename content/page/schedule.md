@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2022-03-06T17:30:00-05:00
+date: 2022-03-06T13:30:00-05:00
 menu:
   main:
     pre: clock
