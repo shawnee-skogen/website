@@ -11,7 +11,7 @@ The schedule can be subscribed to using `https://bit.ly/shawnee-skogen-calendar`
 ## January 17, 2022
 
 Location: Zoom  
-Program: We will work on a cultural skills pin for music.
+Program: We will work on the Music Cultural Skills Level 1 pin.
 
 ## February 20, 2022
 
@@ -20,7 +20,8 @@ Program: Girl Scouts will present about how scouting works in Norway.
 
 ## March 20, 2022
 
-Program and location yet to be determined.
+Location: Zoom
+Program: We will work on the Music Cultural Skills Level 2 pin.
 
 ## April 17, 2022
 
