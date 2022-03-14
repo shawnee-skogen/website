@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Shawnee Skogen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jan 2022 14:00:00 -0500</lastBuildDate><atom:link href="https://shawnee-skogen.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 23:30:00 -0500</lastBuildDate><atom:link href="https://shawnee-skogen.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mailing Lists Transitioning to Forum</title>
+      <link>https://shawnee-skogen.com/p/2022-03-13-music/</link>
+      <pubDate>Sun, 13 Mar 2022 23:30:00 -0500</pubDate>
+      
+      <guid>https://shawnee-skogen.com/p/2022-03-13-music/</guid>
+      <description>Shawnee Skogen Members,
+In an ironic twist, after finally just bulk adding everyone to the mailing lists, I have discovered a major technical hurdle which means I&amp;rsquo;ll have to transition to an alternate solution for online discussion. Therefore, I have removed the link to the &amp;ldquo;Mailing Lists&amp;rdquo; on the sidebar and replaced it with a link to our &amp;ldquo;Forum&amp;rdquo; instead. I&amp;rsquo;ll be testing the forum server over the coming days/weeks to avoid repeating my mistake.</description>
+    </item>
+    
     <item>
       <title>2021 January Meeting Recap: Cultural Skills: Music</title>
       <link>https://shawnee-skogen.com/p/2022-01-16-music/</link>

@@ -6,7 +6,47 @@
         <description>Recent content on Shawnee Skogen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 06 Mar 2022 13:30:00 -0500</lastBuildDate><atom:link href="https://shawnee-skogen.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 13 Mar 2022 23:30:00 -0500</lastBuildDate><atom:link href="https://shawnee-skogen.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Mailing Lists Transitioning to Forum</title>
+        <link>https://shawnee-skogen.com/p/2022-03-13-music/</link>
+        <pubDate>Sun, 13 Mar 2022 23:30:00 -0500</pubDate>
+        
+        <guid>https://shawnee-skogen.com/p/2022-03-13-music/</guid>
+        <description>&lt;p&gt;Shawnee Skogen Members,&lt;/p&gt;
+&lt;p&gt;In an ironic twist, after finally just bulk adding everyone to the mailing lists, I have discovered a major technical hurdle which means I&amp;rsquo;ll have to transition to an alternate solution for online discussion.
+Therefore, I have removed the link to the &amp;ldquo;Mailing Lists&amp;rdquo; on the sidebar and replaced it with a link to our &amp;ldquo;Forum&amp;rdquo; instead.
+I&amp;rsquo;ll be testing the forum server over the coming days/weeks to avoid repeating my mistake.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re curious about the nerdy details continue reading&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I wanted to use mailing lists because email is something everyone, more-or-less, already knows how to use.
+However, it turns out that running a mailing list server is harder than I expected because of all the safeguards the internet has created to fight spam.
+I could possibly address each issue but it would be a long time before I could ensure all members could receive the emails from the mailing list server.
+Essentially, the mailing list server is not trusted by the email servers of each member&amp;rsquo;s email provider.
+I would have to one-by-one appeal to each email provider to permit our mailing list server to send email to them.&lt;/p&gt;
+&lt;p&gt;There is an alternative is to send email from an already-trusted server but to do that you have to verify the identity of each person allowed to send mail through that server.
+This would be a significant technical burden on each member which makes it infeasible.&lt;/p&gt;
+&lt;p&gt;Another alternative is I can switch to a more web browser oriented alternative which can still send and receive emails but acts as an explicit middleman.
+Since it is an explicit middleman I can use an already-trusted server and verify that middleman&amp;rsquo;s identity.&lt;/p&gt;
+&lt;p&gt;It turns out there may be some positives from this surprise:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I may be able to reduce the cost 25%.&lt;/li&gt;
+&lt;li&gt;The prior mailing lists did have a web browser app to view the message archives but the new solution seems much nicer.&lt;/li&gt;
+&lt;li&gt;The new solution took me a lot less time to set up which hopefully means it&amp;rsquo;ll be easier to keep running.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The old solution was &lt;a class=&#34;link&#34; href=&#34;http://www.list.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Mailman&lt;/a&gt; and the new solution is &lt;a class=&#34;link&#34; href=&#34;https://www.discourse.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discourse&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It may be worth re-answering the question, &amp;ldquo;Why not use social media like &lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Reddit&lt;/a&gt; or &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Facebook&lt;/a&gt;?&amp;rdquo;
+The main reason would be wanting to start growing an archive of our history that new and existing members will have access to.
+For example, easy access to all our old newsletters, all the shared recipes, etc.
+My experience with Facebook is that it is very oriented towards the present moment.
+Reddit might actually work reasonably well but Discourse does still give us an email interface and more control.&lt;/p&gt;
+&lt;p&gt;Regards,&lt;br&gt;
+Nathan Nutter&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>2021 January Meeting Recap: Cultural Skills: Music</title>
         <link>https://shawnee-skogen.com/p/2022-01-16-music/</link>
         <pubDate>Sun, 16 Jan 2022 14:00:00 -0500</pubDate>
