@@ -104,6 +104,10 @@ menu:
       weight: -100
       url: /
       pre: home
+    - identifier: forum
+      name: Forum
+      url: https://forum.shawnee-skogen.com/
+      pre: messages
     - identifier: rss
       name: RSS Feed
       url: /index.xml
