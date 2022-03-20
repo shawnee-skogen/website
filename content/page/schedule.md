@@ -23,7 +23,7 @@ Program: Girl Scouts will present about how scouting works in Norway.
 Location: Zoom  
 Program: We will work on the Music Cultural Skills Level 2 pin.
 
-## April 17, 2022
+## April 17, 2022 (Tentative, conflict with Easter.)
 
 Program and location yet to be determined.
 
