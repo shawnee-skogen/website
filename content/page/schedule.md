@@ -6,7 +6,8 @@ menu:
     pre: clock
 ---
 
-The schedule can be subscribed to by opening [webcal://bit.ly/shawnee-skogen-calendar](webcal://bit.ly/shawnee-skogen-calendar) (at least on iOS and macOS).
+The schedule can be subscribed to by opening [webcal://forum.shawnee-skogen.com/calendar/](webcal://forum.shawnee-skogen.com/calendar/) (at least on iOS and macOS).
+Be sure to set the auto-refresh to daily, or more frequent, so you see updated event info.
 
 ## January 17, 2022
 
