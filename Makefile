@@ -1,6 +1,6 @@
 .PHONY: push
-push:
-	$(MAKE) rebase && git push
+push: rebase
+	git push
 
 .PHONY: rebase
 rebase:
