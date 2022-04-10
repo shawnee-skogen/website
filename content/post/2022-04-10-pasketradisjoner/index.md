@@ -46,7 +46,7 @@ Because it's meant to be a language lesson she tends to speak clearly/simply.
 You can turn on auto-translated English captions if you want to try to learn a few words.
 Regardless, you'll probably enjoy this brief video highlighting some of their family Easter traditions.
 
-<iframe style="display: block; margin-left: auto; margin-right: auto;" width="560" height="315" src="https://www.youtube.com/embed/-PpmTpihOZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block; margin-left: auto; margin-right: auto" width="75%" height="315" src="https://www.youtube.com/embed/-PpmTpihOZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Påskeoppskrifter (Easter Recipes)
 
