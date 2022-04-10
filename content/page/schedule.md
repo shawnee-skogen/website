@@ -35,7 +35,7 @@ Program: Syttende Mai potluck and celebration.
 
 ## June 5, 2022 (7 PM, nonstandard date and time)
 
-Location: 2849 Laclede Station Road, Maplewood, MO  
+Location: [2849 Laclede Station Road, Maplewood, MO](https://goo.gl/maps/SEtHmFs6YNqc6DRU7)  
 Program: [MOSL Band Pop-Up Concert](http://moslmusic.org/concerts.php), "AROUND THE WORLD", featuring works by Sousa, Bernstein, King, Grainger, Hanssen and more!  With our members Anne and Nancy performing!
 
 ## July 17, 2022
