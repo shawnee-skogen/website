@@ -27,7 +27,7 @@ Other media channels have followed suit, producing crime radio plays, TV shows, 
 
 #### Milk Carton Mysteries
 
-<img style="display: block; margin-left: auto; margin-right: auto; width: 75%" src="/p/2022-04-10-påsketradisjoner/index_huafd631de480cd6db126ed3ed0dff8cdc_2307754_1600x0_resize_q75_box.jpg" alt="milk carton mysteries"/>
+<img style="display: block; margin-left: auto; margin-right: auto; width: 75%" src="/p/2022-04-10-pasketradisjoner/index_huafd631de480cd6db126ed3ed0dff8cdc_2307754_1600x0_resize_q75_box.jpg" alt="milk carton mysteries"/>
 
 Since 1997, TINE dairy cooperative has printed family-friendly whodunit comics on their milk cartons for Norwegians to solve over breakfast during Easter break.
 Private detective Ulf Ulvheim (en ulv – a wolf, naturally) has been a recurring character in the Easter-related detective strips (see cover image).
