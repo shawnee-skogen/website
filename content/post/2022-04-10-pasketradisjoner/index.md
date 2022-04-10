@@ -1,7 +1,7 @@
 ---
 title: "Påskestradisjoner"
 date: 2022-04-10T13:00:00-05:00
-slug: 2022-04-10-påsketradisjoner
+slug: 2022-04-10-pasketradisjoner
 image: index.jpg
 ---
 Påskestradisjoner just means "Easter Traditions".
