@@ -24,22 +24,23 @@ Program: Girl Scouts will present about how scouting works in Norway.
 Location: Zoom  
 Program: We will work on the Music Cultural Skills Level 2 pin.
 
-## April 17, 2022 (Tentative, conflict with Easter.)
+## April 17, 2022 (no meeting)
 
-Program and location yet to be determined.
+No meeting for April due to conflict with Easter but we'll post a virtual program about Norwegian Easter traditions.
 
 ## May 15, 2022
 
-Location: To be determined.  
-Program: Syttende Mai celebration.
+Location: Giant City State Park, Shelter #1  
+Program: Syttende Mai potluck and celebration.
 
-## June 19, 2022
+## June 5, 2022 (7 PM, nonstandard date and time)
 
-No meeting.
+Location: 2849 Laclede Station Road, Maplewood, MO  
+Program: [MOSL Band Pop-Up Concert](http://moslmusic.org/concerts.php), "AROUND THE WORLD", featuring works by Sousa, Bernstein, King, Grainger, Hanssen and more!  With our members Anne and Nancy performing!
 
 ## July 17, 2022
 
-Maybe a summer field trip?
+Program and location yet to be determined.
 
 ## August 20, 2022
 
