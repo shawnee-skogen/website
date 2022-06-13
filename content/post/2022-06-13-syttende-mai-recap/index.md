@@ -6,12 +6,13 @@ image: group_crop.jpg
 ---
 
 Gratulerer med dagen!
-The weather gave us a reprieve and we were able to enjoy a wonderful picnic with our many of our lodge members.
-In Norwegian tradition hot dogs were grilled and we attempted to serve ice cream.
+The weather gave us a reprieve and we were able to enjoy a wonderful picnic with many of our lodge members.
+In Norwegian tradition, hot dogs were grilled and we attempted to serve ice cream.
 There was a wonderful variety of dishes, some of which were made possible thanks to the Charmans' RV kitchenette.
-We got to see several lodge members we have not gotten to see in a while!
+We enjoyed seeing several lodge members we have not seen in a while!
 
-The festivities took place at Giant City State Park where we had this nice shelter to give us some shade,
+The festivities took place at Giant City State Park where we had a nice shelter to give us some shade.
+In addition to the meeting and potluck/picnic there was also some hiking, some baseball, and some Kubb.
 
 ![Giant City State Park: Shelter 1](venue.jpg)
 
