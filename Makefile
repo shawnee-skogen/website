@@ -1,3 +1,6 @@
+.PHONY: default
+default: serve
+
 .PHONY: push
 push: rebase
 	git push
