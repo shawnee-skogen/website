@@ -9,22 +9,20 @@ menu:
 The schedule can be subscribed to by opening [webcal://forum.shawnee-skogen.com/calendar/](webcal://forum.shawnee-skogen.com/calendar/) (at least on iOS and macOS).
 Be sure to set the auto-refresh to daily, or more frequent, so you see updated event info.
 
-## March 12, 2023
-
-Time: 2:00 PM  
-Location: [St. Nicholas Brewing Company](https://goo.gl/maps/DahCdc83Ufa6hFYc9) (12 S Oak St, Du Quoin, IL 62832)  
-Program: [Thor Heyerdahl](https://en.wikipedia.org/wiki/Thor_Heyerdahl) presented by Ron Naversen  
-
 ## April 15, 2023
 
 Time: 2:00 PM  
-Location: Somewhere in Anna, IL  
+Location: Anna, IL and Giant City Start Park; see below.  
 Program: To be determined but the District 5 board will be visiting.  
+
+Lunch will be at Davie School Inn in Anna, IL; RSVP required, time TBD.  
+Social will be at Star View and Blue Sky Wineries starting at 3:30 PM.  
+Dinner will be at Giant City Lodge at 6:30 PM; RSVP required.
 
 ## May 14, 2023
 
 Time: 2:00 PM  
-Location: [Ron's House](https://goo.gl/maps/CpmeivTVKpvHuR5h7) (388 East New Thompson Lake Road, Carbondale, IL)  
+Location: New Thompson Lake in Carbondale  
 Program: Syttende Mai celebration with a Scandinavian potluck.
 
 ## June 11, 2023
@@ -47,7 +45,9 @@ Program and location yet to be determined.
 
 ## October 8, 2023
 
-Program and location yet to be determined.
+Time: 2:00 PM  
+Location: To be determined  
+Program: Intro to Hardanger Embroidery
 
 ## November 12, 2023
 
