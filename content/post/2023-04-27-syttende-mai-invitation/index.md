@@ -2,7 +2,7 @@
 title: "Syttende Mai Invitation"
 date: 2023-04-27T12:00:00-05:00
 slug: 2023-04-27-syttende-mai-invitation
-image: flag.webp
+image: flag.png
 ---
 
 Every year Norwegians celebrate [Constitution Day](https://en.wikipedia.org/wiki/Constitution_Day_(Norway)), often referred to just as "syttende mai" ("Seventeenth May").
