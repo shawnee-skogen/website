@@ -33,7 +33,7 @@ params:
   sidebar:
     subtitle: Sons of Norway Lodge 5-689 @ Carbondale, IL
     avatar:
-      src: /avatar.jpg
+      src: img/avatar.png
 
   article:
     math: false
@@ -106,15 +106,18 @@ menu:
       name: Home
       weight: -100
       url: /
-      pre: home
+      params:
+        icon: home
     - identifier: forum
       name: Forum
       url: https://forum.shawnee-skogen.com/
-      pre: messages
+      params:
+        icon: messages
     - identifier: rss
       name: RSS Feed
       url: /index.xml
-      pre: rss
+      params:
+        icon: rss
 
 related:
   includeNewer: true

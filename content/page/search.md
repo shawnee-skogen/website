@@ -7,5 +7,6 @@ outputs:
   - json
 menu:
   main:
-    pre: search
+    params:
+      icon: search
 ---

@@ -5,5 +5,6 @@ layout: "archives"
 slug: "archives"
 menu:
   main:
-    pre: archives
+    params:
+      icon: archives
 ---

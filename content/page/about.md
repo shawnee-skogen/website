@@ -3,7 +3,8 @@ title: "About"
 date: 2021-03-27T17:30:00-05:00
 menu:
   main:
-    pre: user
+    params:
+      icon: user
 ---
 ## Overview
 

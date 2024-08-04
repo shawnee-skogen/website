@@ -3,7 +3,8 @@ title: "Schedule"
 date: 2023-03-05T13:30:00-05:00
 menu:
   main:
-    pre: clock
+    params:
+      icon: clock
 ---
 
 The schedule can be subscribed to by opening [webcal://forum.shawnee-skogen.com/calendar/](webcal://forum.shawnee-skogen.com/calendar/) (at least on iOS and macOS).
